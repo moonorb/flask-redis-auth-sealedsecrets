@@ -2,7 +2,7 @@
 Flask Application with Redis and Bitnami Sealed Secrets
 
 
-#Download and Install kubesel
+#Download and Install kubeseal
 #Ref:https://github.com/bitnami-labs/sealed-secrets#linux
 
 ```
